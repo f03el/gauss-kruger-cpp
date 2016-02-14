@@ -1,0 +1,6 @@
+*.o
+*.so
+*.a
+*.swp
+gausskruger
+test_reference_points
